@@ -1,0 +1,25 @@
+{
+  "name": "CFDSA",
+  "version": "1.0.0",
+  "description": "Containers for Deploying and Scaling Apps Pre Course Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-YaRou/CFDSA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-YaRou/CFDSA/issues"
+  },
+  "homepage": "https://github.com/Mr-YaRou/CFDSA#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
